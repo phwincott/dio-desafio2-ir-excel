@@ -12,7 +12,7 @@ Abaixo, uma visão geral das principais telas da aplicação.
 
 ### 1. Menu Principal
 A porta de entrada da aplicação, com navegação centralizada e identidade visual.
-![Tela do Menu Principal](images/print_menu.png)
+![Tela do Menu Principal](Desafio_2/images/print_menu.png)
 
 ### 2. Planilha Titular (Dados Pessoais)
 Formulário para preenchimento de dados cadastrais com máscaras de entrada.
