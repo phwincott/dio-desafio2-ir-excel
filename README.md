@@ -12,23 +12,28 @@ Abaixo, uma visão geral das principais telas da aplicação.
 
 ### 1. Menu Principal
 A porta de entrada da aplicação, com navegação centralizada e identidade visual.
+
 ![Tela do Menu Principal](Desafio_2/images/print_menu.png)
 
 ### 2. Planilha Titular (Dados Pessoais)
 Formulário para preenchimento de dados cadastrais com máscaras de entrada.
-![Tela da Planilha Titular](images/print_titular.png)
+
+![Tela da Planilha Titular](Desafio_2/images/print_titular.png)
 
 ### 3. Planilha Informes (Financeiro)
 Controle de saldos bancários com seleção validada de instituições.
-![Tela da Planilha Informes](images/print_informes.png)
+
+![Tela da Planilha Informes](Desafio_2/images/print_informes.png)
 
 ### 4. Planilha Notas (Despesas)
 Registro simples e direto de entradas e despesas dedutíveis.
-![Tela da Planilha Notas](images/print_notas.png)
+
+![Tela da Planilha Notas](Desafio_2/images/print_notas.png)
 
 ### 5. Planilha Tabelas (Apoio Oculto)
 Base de dados auxiliar para validações (esta planilha fica oculta para o usuário final).
-![Tela da Planilha Tabelas de Apoio](images/print_tabelas.png)
+
+![Tela da Planilha Tabelas de Apoio](Desafio_2/images/print_tabelas.png)
 
 ---
 
